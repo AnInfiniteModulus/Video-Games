@@ -1,0 +1,41 @@
+body {
+  background-color: #8FD8D8;
+}
+
+#game {
+  margin-top: 180px;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 220px;
+    margin-right: 360px;
+    display: block;
+    width: 960px;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 34px;
+  color: white;
+  font-style:bold;
+  border-radius: 2px;
+  position: absolute;
+  margin-left: 720px;
+  margin-top: 110px;
+  /*padding: 5px 10px 5px 10px;
+  margin-left: 250px;*/
+}
+
+a:hover{
+  color: white;
+  display: block;
+  color: #8FD8D8;
+}
+
+#myCanvas {
+  padding: 1px;
+  background-color: #50C875
+}
